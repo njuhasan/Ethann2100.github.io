@@ -1,12 +1,13 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- **Haoyu Wang**, Dan Zhang*, Zhengyu Qian, Hasanjan Yimit, et al. A novel paraffin/graphite PCM backfill for PHC energy pile: Numerical and experimental analysis on thermal performance. *Applied Thermal Engineering*, 2024, 124656. (SCI, IF=6.1, JCR=Q1) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+  
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **Haoyu Wang**, Dan Zhang*, Kang Ren, et al. The sensing performance of a novel optical cable for tunnel water leakage monitoring based on distributed strain sensing. *IEEE Sensors Journal*, 22496 - 22506. (SCI, IF=4.3, JCR=Q1) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **Haoyu Wang**, Dan Zhang*, Zhengyu Qian. Influence of graphite volume fraction in phase change backfills on heat transfer performance of PHC energy piles. *Journal of Tsinghua University (Science and Technology)*, 2024, 64(05). (EI) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- **Haoyu Wang**, Dan Zhang*, Kang Ren, et al. Experimental Study of the Distributed Tunnel Leakage Sensing Method Based on DTS. *Geological Journal of China Universities*, 2023, 29(06): 886-893. (In Chinese) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **Haoyu Wang**, Fenglei Du, Dan Zhang*, et al. Thermo-Mechanical Performance and Bearing Characteristics of a Large-Diameter, Extra-Long Energy Pile: An Inter-Calibrated DFOS Analysis. *Journal of Geotechnical and Geoenvironmental Engineering*, Under review (SCI, IF=3.9, JCR=Q2) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
 
+- **Haoyu Wang**, Dan Zhang*, Zhuoqun Xu, et al. Estimation of seepage field using DFOS temperature profiles of energy piles. *Water Resources Research*, Under review (SCI, IF=5.4, JCR=Q1) [PDF](https://drive.google.com/file/d/1ZHv0QhyJIrY4jK7VZUA8XOWZMyFpNCH3/view?usp=sharing)
