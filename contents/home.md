@@ -14,8 +14,6 @@ asj@smail.nju.edu.cn
 #### Research Interests
 
 - Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure
-
 - Application of enhanced Phase Change Materials (PCM) on Energy Piles
-
 - Estimation of seepage field using DFOS temperature profiles of Energy Piles
 
