@@ -8,8 +8,8 @@ asj@smail.nju.edu.cn
 
 #### Education
 
-Ph.D. Candidate in Engineering Geology, Nanjing University, Earth Sciences and Engineering (985), 2021—Present (supervised by Prof. Dan Zhang)
-B.E. in Civil Engineering, China University of Mining and Technology, School of Civil Engineering (211), 2017—2021 (GPA: 4.38/5.0)
+- Ph.D. Candidate in Engineering Geology, Nanjing University, Earth Sciences and Engineering (985), 2021—Present (supervised by Prof. Dan Zhang)
+- B.E. in Civil Engineering, China University of Mining and Technology, School of Civil Engineering (211), 2017—2021 (GPA: 4.38/5.0)
 
 #### Research Interests
 
